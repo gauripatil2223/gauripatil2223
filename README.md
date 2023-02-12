@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauripatil2223
-- 👀 I’m interested in developing solution for real world provlems using technology
+- 👀 I’m interested in developing solution for real world problems using technology
 - 🌱 I’m currently working and using MERN Stack , AWS , Heroku , PostgreSQL and Java  Full Stack Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at patilgaurir@gmail.com  
